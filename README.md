@@ -1,2 +1,2 @@
-# Pinterest-Clone
-An implementataion of Pinterest Clone as a part of FreeCodeCamp's development challenge.
+# Pinterest Clone
+An implementation of Pinterest Clone as a part of FreeCodeCamp's development challenge.
